@@ -1,0 +1,1851 @@
+{
+    "histories": [
+      {
+        "name": "Ramayana",
+        "image": "ramayana.jpg",
+        "quizzes": [
+          {
+            "quiz_name": "Ramayana Quiz 1",
+            "questions": [
+              {
+                "question": "Who was Lord Rama's wife?",
+                "options": ["Draupadi", "Sita", "Radha", "Kunti"],
+                "answer": "Sita"
+              },
+              {
+                "question": "Who was the brother of Lord Rama who went into exile with him?",
+                "options": ["Bharata", "Lakshmana", "Shatrughna", "Arjuna"],
+                "answer": "Lakshmana"
+              },
+              {
+                "question": "What is the name of the forest where Lord Rama spent his exile?",
+                "options": ["Dandakaranya", "Naimisharanya", "Chitrakoot", "Vrindavan"],
+                "answer": "Dandakaranya"
+              },
+              {
+                "question": "Who abducted Sita?",
+                "options": ["Ravana", "Kumbhakarna", "Surpanakha", "Maricha"],
+                "answer": "Ravana"
+              },
+              {
+                "question": "Which bird tried to rescue Sita from Ravana?",
+                "options": ["Jatayu", "Garuda", "Sampati", "Vulture"],
+                "answer": "Jatayu"
+              },
+              {
+                "question": "Who helped Lord Rama build the bridge to Lanka?",
+                "options": ["Hanuman", "Sugriva", "Vibhishana", "The Vanara Army"],
+                "answer": "The Vanara Army"
+              },
+              {
+                "question": "Who is Lord Rama's father?",
+                "options": ["Dasharatha", "Janaka", "Vishwamitra", "Bharata"],
+                "answer": "Dasharatha"
+              },
+              {
+                "question": "What was the name of Lord Rama's bow?",
+                "options": ["Pinaka", "Sharanga", "Gandiva", "Khadga"],
+                "answer": "Sharanga"
+              },
+              {
+                "question": "Which demoness tried to marry Lord Rama?",
+                "options": ["Surpanakha", "Tadaka", "Mandodari", "Kaikeyi"],
+                "answer": "Surpanakha"
+              },
+              {
+                "question": "Who was the author of the Ramayana?",
+                "options": ["Valmiki", "Vedavyasa", "Kalidasa", "Tulsidas"],
+                "answer": "Valmiki"
+              }
+            ]
+          },
+          {
+            "quiz_name": "Ramayana Quiz 2",
+            "questions": [
+              {
+                "question": "What was the name of Ravana's kingdom?",
+                "options": ["Lanka", "Ayodhya", "Dwaraka", "Mathura"],
+                "answer": "Lanka"
+              },
+              {
+                "question": "Who performed the Putrakameshti Yagna for Dasharatha?",
+                "options": ["Sage Vishwamitra", "Sage Vashishtha", "Sage Rishyasringa", "Sage Narada"],
+                "answer": "Sage Rishyasringa"
+              },
+              {
+                "question": "What was the name of the golden deer that Sita wanted?",
+                "options": ["Maricha", "Subahu", "Tadaka", "Indrajit"],
+                "answer": "Maricha"
+              },
+              {
+                "question": "What was the name of the king of monkeys who helped Rama?",
+                "options": ["Sugriva", "Vali", "Hanuman", "Angada"],
+                "answer": "Sugriva"
+              },
+              {
+                "question": "Who composed the Ramcharitmanas?",
+                "options": ["Valmiki", "Tulsidas", "Kalidasa", "Kabir"],
+                "answer": "Tulsidas"
+              },
+              {
+                "question": "What was the name of Lord Rama's kingdom?",
+                "options": ["Ayodhya", "Lanka", "Hastinapura", "Indraprastha"],
+                "answer": "Ayodhya"
+              },
+              {
+                "question": "Who was the father of Sita?",
+                "options": ["Janaka", "Dasharatha", "Vishwamitra", "Vashishtha"],
+                "answer": "Janaka"
+              },
+              {
+                "question": "Who was the commander of the Vanara army?",
+                "options": ["Hanuman", "Angada", "Sugriva", "Nila"],
+                "answer": "Nila"
+              },
+              {
+                "question": "Who was the mother of Lord Rama?",
+                "options": ["Kaushalya", "Kaikeyi", "Sumitra", "Mandodari"],
+                "answer": "Kaushalya"
+              },
+              {
+                "question": "Who crowned Lord Rama as the king of Ayodhya?",
+                "options": ["Sage Vashishtha", "Sage Vishwamitra", "Sage Valmiki", "Hanuman"],
+                "answer": "Sage Vashishtha"
+              }
+            ]
+          },
+          {
+            "quiz_name": "Ramayana Quiz 3",
+            "questions": [
+              {
+                "question": "What was the name of Lord Rama's kingdom?",
+                "options": ["Ayodhya", "Hastinapura", "Indraprastha", "Dwarka"],
+                "answer": "Ayodhya"
+              },
+              {
+                "question": "Who crowned Lord Rama as the King of Ayodhya after his return?",
+                "options": ["Lakshmana", "Hanuman", "Vasishta", "Bharata"],
+                "answer": "Bharata"
+              },
+              {
+                "question": "Who was the demon king's son who supported Lord Rama in the war?",
+                "options": ["Meghnad", "Vibhishana", "Indrajit", "Kumbhakarna"],
+                "answer": "Vibhishana"
+              },
+              {
+                "question": "What was the name of the golden deer that distracted Lord Rama?",
+                "options": ["Maricha", "Subahu", "Tadaka", "Jatayu"],
+                "answer": "Maricha"
+              },
+              {
+                "question": "Who was Sita's father?",
+                "options": ["Dasharatha", "Janaka", "Kusha", "Kashyapa"],
+                "answer": "Janaka"
+              },
+              {
+                "question": "Who among the following performed the Ashwamedha Yagna in Ramayana?",
+                "options": ["Bharata", "Lord Rama", "Lakshmana", "Sugriva"],
+                "answer": "Lord Rama"
+              },
+              {
+                "question": "Which weapon did Lord Rama use to kill Ravana?",
+                "options": ["Sudarshana Chakra", "Brahmastra", "Agneyastra", "Sharanga"],
+                "answer": "Brahmastra"
+              },
+              {
+                "question": "Who gave Sita her jewel-filled box before her exile?",
+                "options": ["Kaushalya", "Mandodari", "Kaikeyi", "Urmila"],
+                "answer": "Kaushalya"
+              },
+              {
+                "question": "Who was the chief architect of the bridge to Lanka?",
+                "options": ["Nal", "Neel", "Hanuman", "Angada"],
+                "answer": "Nal"
+              },
+              {
+                "question": "Who was the sage that Lord Rama met during his exile at Chitrakoot?",
+                "options": ["Agastya", "Atri", "Vishwamitra", "Valmiki"],
+                "answer": "Atri"
+              }
+            ]
+          },              
+          {
+            "quiz_name": "Ramayana Quiz 4",
+            "questions": [
+              {
+                "question": "What was the name of the demon who disguised himself as a golden deer?",
+                "options": ["Maricha", "Subahu", "Kumbhakarna", "Indrajit"],
+                "answer": "Maricha"
+              },
+              {
+                "question": "Who was Sita's father?",
+                "options": ["Dasharatha", "Janaka", "Kushadhwaja", "Vishwamitra"],
+                "answer": "Janaka"
+              },
+              {
+                "question": "What was the name of Lord Rama's loyal follower who could grow in size?",
+                "options": ["Hanuman", "Sugriva", "Angada", "Jambavan"],
+                "answer": "Hanuman"
+              },
+              {
+                "question": "Who was the mother of Lord Rama?",
+                "options": ["Kaushalya", "Kaikeyi", "Sumitra", "Mandodari"],
+                "answer": "Kaushalya"
+              },
+              {
+                "question": "What is the name of the kingdom ruled by Ravana?",
+                "options": ["Lanka", "Ayodhya", "Mithila", "Chitrakoot"],
+                "answer": "Lanka"
+              },
+              {
+                "question": "Who advised Lord Rama to seek help from Sugriva?",
+                "options": ["Hanuman", "Jatayu", "Vibhishana", "Jambavan"],
+                "answer": "Hanuman"
+              },
+              {
+                "question": "Who was the guru of Lord Rama during his childhood?",
+                "options": ["Vishwamitra", "Vasishta", "Agastya", "Bharadwaja"],
+                "answer": "Vishwamitra"
+              },
+              {
+                "question": "Who killed Indrajit in the battle?",
+                "options": ["Lakshmana", "Rama", "Hanuman", "Vibhishana"],
+                "answer": "Lakshmana"
+              },
+              {
+                "question": "What was the name of Lord Rama and Sita's sons?",
+                "options": ["Lava and Kusha", "Bharata and Shatrughna", "Kusha and Bharata", "Lakshmana and Lava"],
+                "answer": "Lava and Kusha"
+              },
+              {
+                "question": "What was the name of the bridge built by Lord Rama and his army?",
+                "options": ["Ram Setu", "Sharanga", "Dandakaranya", "Lanka Path"],
+                "answer": "Ram Setu"
+              }
+            ]
+          },          
+          {
+            "quiz_name": "Ramayana Quiz 5",
+            "questions": [
+              {
+                "question": "Which demoness had her nose cut off by Lakshmana?",
+                "options": ["Surpanakha", "Tadaka", "Mandodari", "Shabari"],
+                "answer": "Surpanakha"
+              },
+              {
+                "question": "Who was the eldest son of King Dasharatha?",
+                "options": ["Rama", "Bharata", "Lakshmana", "Shatrughna"],
+                "answer": "Rama"
+              },
+              {
+                "question": "Who gave Lord Rama the divine weapon Brahmastra?",
+                "options": ["Agastya", "Vishwamitra", "Vasishta", "Indra"],
+                "answer": "Agastya"
+              },
+              {
+                "question": "What was the name of the sage who wrote the Ramayana?",
+                "options": ["Valmiki", "Tulsidas", "Kalidasa", "Vedavyasa"],
+                "answer": "Valmiki"
+              },
+              {
+                "question": "Who among the following was Ravana's brother?",
+                "options": ["Vibhishana", "Kumbhakarna", "Both", "Neither"],
+                "answer": "Both"
+              },
+              {
+                "question": "Which monkey king helped Rama in his quest to rescue Sita?",
+                "options": ["Sugriva", "Bali", "Angada", "Jambavan"],
+                "answer": "Sugriva"
+              },
+              {
+                "question": "Who performed Lord Rama's coronation after his return to Ayodhya?",
+                "options": ["Sage Vasishta", "Bharata", "Hanuman", "Lakshmana"],
+                "answer": "Sage Vasishta"
+              },
+              {
+                "question": "What was the name of Ravana's son who was a great warrior?",
+                "options": ["Indrajit", "Kumbhakarna", "Akshayakumara", "Meghnad"],
+                "answer": "Indrajit"
+              },
+              {
+                "question": "Which festival marks the return of Lord Rama to Ayodhya after 14 years of exile?",
+                "options": ["Diwali", "Dussehra", "Holi", "Ram Navami"],
+                "answer": "Diwali"
+              },
+              {
+                "question": "Who was the king of Lanka before Ravana?",
+                "options": ["Kubera", "Vibhishana", "Kumbhakarna", "Sumali"],
+                "answer": "Kubera"
+              }
+            ]
+          },          
+          {
+            "quiz_name": "Ramayana Quiz 6",
+            "questions": [
+              {
+                "question": "What is the name of the mountain where Hanuman found the Sanjeevani herb?",
+                "options": ["Dronagiri", "Mandara", "Himalaya", "Vindhya"],
+                "answer": "Dronagiri"
+              },
+              {
+                "question": "Who cursed Hanuman to forget his divine powers?",
+                "options": ["Sage Durvasa", "Mata Anjana", "A group of sages", "Lord Shiva"],
+                "answer": "A group of sages"
+              },
+              {
+                "question": "Who performed the Putrakameshti Yagna for King Dasharatha?",
+                "options": ["Sage Vishwamitra", "Sage Vasishta", "Sage Rishyasringa", "Sage Agastya"],
+                "answer": "Sage Rishyasringa"
+              },
+              {
+                "question": "Who was the eldest of Lord Rama's brothers?",
+                "options": ["Rama", "Bharata", "Lakshmana", "Shatrughna"],
+                "answer": "Rama"
+              },
+              {
+                "question": "What was the name of the demoness who guarded Lanka's gates?",
+                "options": ["Lankini", "Surpanakha", "Mandodari", "Trijata"],
+                "answer": "Lankini"
+              },
+              {
+                "question": "Which sage gave Lord Rama celestial weapons during his exile?",
+                "options": ["Sage Vishwamitra", "Sage Agastya", "Sage Atri", "Sage Valmiki"],
+                "answer": "Sage Agastya"
+              },
+              {
+                "question": "What was the name of Ravana's palace in Lanka?",
+                "options": ["Pushpaka Vimana", "Indraprastha", "Golden Lanka", "Trikuta"],
+                "answer": "Pushpaka Vimana"
+              },
+              {
+                "question": "Who was the monkey prince sent by Sugriva to search for Sita?",
+                "options": ["Angada", "Hanuman", "Jambavan", "Neel"],
+                "answer": "Angada"
+              },
+              {
+                "question": "What lesson did Lord Rama teach the world by adhering to his 14 years of exile?",
+                "options": ["Truth and justice", "Obedience and duty", "Forgiveness and compassion", "Power and strength"],
+                "answer": "Obedience and duty"
+              },
+              {
+                "question": "What did Lord Rama use to defeat Ravana in the final battle?",
+                "options": ["Brahmastra", "Agneyastra", "Pinaka", "Vajra"],
+                "answer": "Brahmastra"
+              }
+            ]
+          }          
+        ]
+      },
+      {
+        "name": "Mahabharata",
+        "image": "mahabharata.jpg",
+        "quizzes": [
+          {
+            "quiz_name": "Mahabharata Quiz 1",
+            "questions": [
+              {
+                "question": "Who was the eldest Pandava?",
+                "options": ["Yudhishthira", "Bhima", "Arjuna", "Nakul"],
+                "answer": "Yudhishthira"
+              },
+              {
+                "question": "Who was the teacher of the Kauravas and Pandavas?",
+                "options": ["Dronacharya", "Kripacharya", "Bhishma", "Vidura"],
+                "answer": "Dronacharya"
+              },
+              {
+                "question": "Who was the charioteer of Arjuna?",
+                "options": ["Krishna", "Karna", "Bhishma", "Duryodhana"],
+                "answer": "Krishna"
+              },
+              {
+                "question": "What was the battlefield of Mahabharata called?",
+                "options": ["Kurukshetra", "Indraprastha", "Hastinapura", "Dwarka"],
+                "answer": "Kurukshetra"
+              },
+              {
+                "question": "Who was the wife shared by the Pandavas?",
+                "options": ["Draupadi", "Subhadra", "Kunti", "Gandhari"],
+                "answer": "Draupadi"
+              },
+              {
+                "question": "Who was the father of Karna?",
+                "options": ["Surya", "Indra", "Shiva", "Vayu"],
+                "answer": "Surya"
+              },
+              {
+                "question": "Who wrote the Mahabharata?",
+                "options": ["Vyasa", "Valmiki", "Tulsidas", "Kalidasa"],
+                "answer": "Vyasa"
+              },
+              {
+                "question": "Who was the blind king of Hastinapura?",
+                "options": ["Dhritarashtra", "Pandu", "Vidura", "Dronacharya"],
+                "answer": "Dhritarashtra"
+              },
+              {
+                "question": "Who was the main rival of the Pandavas?",
+                "options": ["Duryodhana", "Karna", "Bhishma", "Krishna"],
+                "answer": "Duryodhana"
+              },
+              {
+                "question": "What was the name of Bhima's weapon?",
+                "options": ["Mace", "Bow", "Sword", "Spear"],
+                "answer": "Mace"
+              }
+            ]
+          },
+          {
+            "quiz_name": "Mahabharata Quiz 2",
+            "questions": [
+              {
+                "question": "Who was the eldest Kaurava?",
+                "options": ["Duryodhana", "Dushasana", "Vikarna", "Yuyutsu"],
+                "answer": "Duryodhana"
+              },
+              {
+                "question": "Who was known as the son of the wind god (Vayu)?",
+                "options": ["Bhima", "Arjuna", "Karna", "Yudhishthira"],
+                "answer": "Bhima"
+              },
+              {
+                "question": "What was the name of Arjuna's bow?",
+                "options": ["Gandiva", "Pinaka", "Sharanga", "Khadga"],
+                "answer": "Gandiva"
+              },
+              {
+                "question": "Who was the foster mother of Karna?",
+                "options": ["Radha", "Kunti", "Gandhari", "Subhadra"],
+                "answer": "Radha"
+              },
+              {
+                "question": "Who was the commander-in-chief of the Kaurava army?",
+                "options": ["Bhishma", "Dronacharya", "Karna", "Shalya"],
+                "answer": "Bhishma"
+              },
+              {
+                "question": "Who defeated Dronacharya during the Kurukshetra war?",
+                "options": ["Dhrishtadyumna", "Arjuna", "Bhima", "Abhimanyu"],
+                "answer": "Dhrishtadyumna"
+              },
+              {
+                "question": "What was the name of Bhishma's vow?",
+                "options": ["Brahmacharya", "Celibacy Vow", "Bhishma Pratigya", "Loyalty Vow"],
+                "answer": "Bhishma Pratigya"
+              },
+              {
+                "question": "Who was the son of Arjuna and Subhadra?",
+                "options": ["Abhimanyu", "Ghatotkacha", "Iravan", "Ashwatthama"],
+                "answer": "Abhimanyu"
+              },
+              {
+                "question": "Who killed Dushasana during the Kurukshetra war?",
+                "options": ["Bhima", "Arjuna", "Satyaki", "Nakula"],
+                "answer": "Bhima"
+              },
+              {
+                "question": "Which form did Krishna reveal to Arjuna during the Bhagavad Gita?",
+                "options": ["Vishwaroopa", "Narasimha", "Govardhana", "Matsya"],
+                "answer": "Vishwaroopa"
+              }
+            ]
+          },
+          {
+            "quiz_name": "Mahabharata Quiz 3",
+            "questions": [
+              {
+                "question": "What was the name of the dice game hall where Yudhishthira lost everything?",
+                "options": ["Hastinapura Sabha", "Indraprastha Sabha", "Varnavarta Sabha", "Kaurava Sabha"],
+                "answer": "Hastinapura Sabha"
+              },
+              {
+                "question": "Who was the mother of the Kauravas?",
+                "options": ["Kunti", "Gandhari", "Radha", "Subhadra"],
+                "answer": "Gandhari"
+              },
+              {
+                "question": "Who was the divine architect who built the palace of the Pandavas in Indraprastha?",
+                "options": ["Maya", "Vishwakarma", "Takshaka", "Kubera"],
+                "answer": "Maya"
+              },
+              {
+                "question": "Who taught Arjuna the celestial weapons during his exile?",
+                "options": ["Dronacharya", "Krishna", "Indra", "Lord Shiva"],
+                "answer": "Indra"
+              },
+              {
+                "question": "Who killed Bhishma during the Kurukshetra war?",
+                "options": ["Arjuna", "Draupadi", "Dhrishtadyumna", "Yudhishthira"],
+                "answer": "Arjuna"
+              },
+              {
+                "question": "What was the name of the weapon used by Ashwatthama to destroy the Pandavas' camp?",
+                "options": ["Brahmastra", "Pashupatastra", "Narayanastra", "Agneyastra"],
+                "answer": "Narayanastra"
+              },
+              {
+                "question": "Who was the Rakshasa friend of Duryodhana who fought in the war?",
+                "options": ["Ghatotkacha", "Alambusha", "Kumbhakarna", "Keechaka"],
+                "answer": "Alambusha"
+              },
+              {
+                "question": "Who was the first commander of the Pandava army?",
+                "options": ["Shikhandi", "Dhrishtadyumna", "Satyaki", "Bhima"],
+                "answer": "Dhrishtadyumna"
+              },
+              {
+                "question": "Who took a vow to kill Dronacharya after the death of his father, Drupada?",
+                "options": ["Dhrishtadyumna", "Shikhandi", "Arjuna", "Bhima"],
+                "answer": "Dhrishtadyumna"
+              },
+              {
+                "question": "Who was the wife of Bhima and the mother of Ghatotkacha?",
+                "options": ["Draupadi", "Hidimba", "Subhadra", "Gandhari"],
+                "answer": "Hidimba"
+              }
+            ]
+          },{
+            "quiz_name": "Mahabharata Quiz 4",
+            "questions": [
+              {
+                "question": "Who was the son of Bhima and Hidimba?",
+                "options": ["Ghatotkacha", "Abhimanyu", "Iravan", "Alambusha"],
+                "answer": "Ghatotkacha"
+              },
+              {
+                "question": "Who was the youngest Pandava?",
+                "options": ["Nakul", "Sahadeva", "Arjuna", "Bhima"],
+                "answer": "Sahadeva"
+              },
+              {
+                "question": "Who took a vow to kill Dushasana during the Kurukshetra war?",
+                "options": ["Bhima", "Arjuna", "Draupadi", "Yudhishthira"],
+                "answer": "Bhima"
+              },
+              {
+                "question": "Who cursed Karna that his chariot wheel would sink during battle?",
+                "options": ["Parashurama", "A Brahmin", "Kunti", "Indra"],
+                "answer": "A Brahmin"
+              },
+              {
+                "question": "What was the name of the bow broken by Arjuna during Draupadi's Swayamvara?",
+                "options": ["Pinaka", "Sharanga", "Gandiva", "Vijaya"],
+                "answer": "Pinaka"
+              },
+              {
+                "question": "Who was the eldest son of Kunti?",
+                "options": ["Yudhishthira", "Karna", "Bhima", "Arjuna"],
+                "answer": "Karna"
+              },
+              {
+                "question": "Who killed Ghatotkacha during the Kurukshetra war?",
+                "options": ["Duryodhana", "Ashwatthama", "Karna", "Shalya"],
+                "answer": "Karna"
+              },
+              {
+                "question": "Which son of Arjuna fought and died in the Chakravyuha formation?",
+                "options": ["Abhimanyu", "Iravan", "Bhima", "Satyaki"],
+                "answer": "Abhimanyu"
+              },
+              {
+                "question": "Who vowed not to fight but to protect the throne of Hastinapura?",
+                "options": ["Bhishma", "Vidura", "Drona", "Kripacharya"],
+                "answer": "Bhishma"
+              },
+              {
+                "question": "Who killed Shikhandi in the Kurukshetra war?",
+                "options": ["Ashwatthama", "Bhishma", "Karna", "Dronacharya"],
+                "answer": "Ashwatthama"
+              }
+            ]
+          },
+          {
+            "quiz_name": "Mahabharata Quiz 5",
+            "questions": [
+              {
+                "question": "Who was the mentor of Eklavya?",
+                "options": ["Dronacharya", "Kripacharya", "Bhishma", "Self-taught"],
+                "answer": "Self-taught"
+              },
+              {
+                "question": "What was the name of the son of Duryodhana who fought in the war?",
+                "options": ["Durmukha", "Durjaya", "Lakshmana", "Dushasana"],
+                "answer": "Lakshmana"
+              },
+              {
+                "question": "Who was the son of Arjuna and Ulupi?",
+                "options": ["Iravan", "Ghatotkacha", "Abhimanyu", "Babruvahana"],
+                "answer": "Iravan"
+              },
+              {
+                "question": "Who advised Yudhishthira on the game of dice?",
+                "options": ["Vidura", "Shakuni", "Krishna", "Bhishma"],
+                "answer": "Shakuni"
+              },
+              {
+                "question": "What was the name of the conch used by Krishna in the war?",
+                "options": ["Panchajanya", "Devadatta", "Anantavijaya", "Sughosa"],
+                "answer": "Panchajanya"
+              },
+              {
+                "question": "Who was the king of Anga before Karna was crowned?",
+                "options": ["No one", "Duryodhana", "Jarāsandha", "Shishupala"],
+                "answer": "No one"
+              },
+              {
+                "question": "What was the weapon used by Bhishma to defeat warriors on the battlefield?",
+                "options": ["Spear", "Bow and arrow", "Mace", "Sword"],
+                "answer": "Bow and arrow"
+              },
+              {
+                "question": "Who saved Draupadi from humiliation in the Kaurava court?",
+                "options": ["Krishna", "Bhima", "Vidura", "Yudhishthira"],
+                "answer": "Krishna"
+              },
+              {
+                "question": "Who killed the demon Kichaka?",
+                "options": ["Bhima", "Arjuna", "Yudhishthira", "Nakula"],
+                "answer": "Bhima"
+              },
+              {
+                "question": "Who was the king of Virata's daughter who married Arjuna's son Abhimanyu?",
+                "options": ["Uttara", "Subhadra", "Draupadi", "Hidimba"],
+                "answer": "Uttara"
+              }
+            ]
+          },
+          {
+            "quiz_name": "Mahabharata Quiz 6",
+            "questions": [
+              {
+                "question": "Who was the son of Ganga and Shantanu?",
+                "options": ["Bhishma", "Vidura", "Dronacharya", "Karna"],
+                "answer": "Bhishma"
+              },
+              {
+                "question": "Who was the chief architect of the palace of illusions at Indraprastha?",
+                "options": ["Maya", "Vishwakarma", "Shilpacharya", "Kubera"],
+                "answer": "Maya"
+              },
+              {
+                "question": "Who killed Ashwatthama’s father, Dronacharya, during the Kurukshetra war?",
+                "options": ["Dhrishtadyumna", "Bhima", "Arjuna", "Yudhishthira"],
+                "answer": "Dhrishtadyumna"
+              },
+              {
+                "question": "What boon did Karna receive from Indra before the Kurukshetra war?",
+                "options": ["Shakti weapon", "Celestial armor", "Brahmastra", "Chariot"],
+                "answer": "Shakti weapon"
+              },
+              {
+                "question": "What was the condition imposed on Draupadi’s marriage to the Pandavas?",
+                "options": [
+                  "She would marry all five brothers",
+                  "She would live in exile with them",
+                  "She would bear a son for each brother",
+                  "She would divide her time equally among the brothers"
+                ],
+                "answer": "She would marry all five brothers"
+              },
+              {
+                "question": "Who among the Pandavas was known for his expertise in horses?",
+                "options": ["Sahadeva", "Nakul", "Arjuna", "Bhima"],
+                "answer": "Nakul"
+              },
+              {
+                "question": "Who killed Shalya, the commander of the Kaurava army, during the final days of the war?",
+                "options": ["Yudhishthira", "Bhima", "Arjuna", "Satyaki"],
+                "answer": "Yudhishthira"
+              },
+              {
+                "question": "Which warrior broke the wheel of Karna's chariot during the battle?",
+                "options": ["Krishna", "Bhima", "Arjuna", "No one"],
+                "answer": "No one"
+              },
+              {
+                "question": "Who was the daughter of Drupada and the sister of Draupadi?",
+                "options": ["Shikhandi", "Uttara", "Subhadra", "Dhrishtadyumna"],
+                "answer": "Shikhandi"
+              },
+              {
+                "question": "What was the name of the celestial assembly hall where the dice game took place?",
+                "options": ["Sabha Parva", "Mayasabha", "Indrasabha", "Hastinapuri Sabha"],
+                "answer": "Mayasabha"
+              }
+            ]
+          }          
+
+        ]
+      },
+      {
+        "name":"Bagavath Gita",
+        "image": "bagavadh gita.jpg",
+        "quizzes": [
+          {
+            "quiz_name": "Bhagavad Gita Quiz 1",
+            "questions": [
+              {
+                "question": "Who narrated the Bhagavad Gita to Arjuna?",
+                "options": ["Krishna", "Vyasa", "Bhishma", "Karna"],
+                "answer": "Krishna"
+              },
+              {
+                "question": "On which battlefield was the Bhagavad Gita delivered?",
+                "options": ["Kurukshetra", "Hastinapura", "Indraprastha", "Dwarka"],
+                "answer": "Kurukshetra"
+              },
+              {
+                "question": "What is the primary subject of the Bhagavad Gita?",
+                "options": [
+                  "Dharma and duty",
+                  "Politics and war",
+                  "Astronomy",
+                  "Economics"
+                ],
+                "answer": "Dharma and duty"
+              },
+              {
+                "question": "What form did Krishna reveal to Arjuna in the Bhagavad Gita?",
+                "options": ["Vishwaroopa", "Narasimha", "Matsya", "Varaha"],
+                "answer": "Vishwaroopa"
+              },
+              {
+                "question": "How many chapters are there in the Bhagavad Gita?",
+                "options": ["18", "12", "10", "20"],
+                "answer": "18"
+              },
+              {
+                "question": "Who was the charioteer of Arjuna during the Kurukshetra war?",
+                "options": ["Krishna", "Bhima", "Yudhishthira", "Sanjaya"],
+                "answer": "Krishna"
+              },
+              {
+                "question": "Who was narrating the events of the war to King Dhritarashtra?",
+                "options": ["Sanjaya", "Krishna", "Bhishma", "Vidura"],
+                "answer": "Sanjaya"
+              },
+              {
+                "question": "What is the ultimate goal of life as per the Bhagavad Gita?",
+                "options": [
+                  "Attaining Moksha",
+                  "Winning battles",
+                  "Gaining wealth",
+                  "Becoming a king"
+                ],
+                "answer": "Attaining Moksha"
+              },
+              {
+                "question": "What does Krishna advise Arjuna to give up in the Bhagavad Gita?",
+                "options": [
+                  "Attachment to results",
+                  "Weapons",
+                  "Kingdom",
+                  "Family ties"
+                ],
+                "answer": "Attachment to results"
+              },
+              {
+                "question": "Which yoga emphasizes devotion to God in the Bhagavad Gita?",
+                "options": ["Bhakti Yoga", "Karma Yoga", "Jnana Yoga", "Raja Yoga"],
+                "answer": "Bhakti Yoga"
+              }
+            ]
+          },
+          {
+            "quiz_name": "Bhagavad Gita Quiz 2",
+            "questions": [
+              {
+                "question": "What does Krishna refer to as the imperishable essence in the Bhagavad Gita?",
+                "options": ["The Soul", "The Body", "The Mind", "Wealth"],
+                "answer": "The Soul"
+              },
+              {
+                "question": "What is the name of the first chapter of the Bhagavad Gita?",
+                "options": [
+                  "Arjuna Vishada Yoga",
+                  "Karma Yoga",
+                  "Bhakti Yoga",
+                  "Sankhya Yoga"
+                ],
+                "answer": "Arjuna Vishada Yoga"
+              },
+              {
+                "question": "Which type of yoga emphasizes selfless action without attachment to results?",
+                "options": ["Karma Yoga", "Bhakti Yoga", "Jnana Yoga", "Raja Yoga"],
+                "answer": "Karma Yoga"
+              },
+              {
+                "question": "Who is referred to as the 'Madhava' in the Bhagavad Gita?",
+                "options": ["Krishna", "Arjuna", "Bhishma", "Duryodhana"],
+                "answer": "Krishna"
+              },
+              {
+                "question": "What does Krishna say about death in the Bhagavad Gita?",
+                "options": [
+                  "The soul is eternal and cannot be destroyed",
+                  "Death is the end of existence",
+                  "Only the body dies, not the soul",
+                  "Both A and C"
+                ],
+                "answer": "Both A and C"
+              },
+              {
+                "question": "What does Krishna advise Arjuna regarding his duty as a Kshatriya?",
+                "options": [
+                  "To fight for justice",
+                  "To give up the war",
+                  "To seek peace",
+                  "To meditate in solitude"
+                ],
+                "answer": "To fight for justice"
+              },
+              {
+                "question": "What is the name of the path of knowledge described in the Bhagavad Gita?",
+                "options": ["Jnana Yoga", "Karma Yoga", "Bhakti Yoga", "Dhyana Yoga"],
+                "answer": "Jnana Yoga"
+              },
+              {
+                "question": "What is the Sanskrit term used in the Bhagavad Gita for 'Detachment'?",
+                "options": ["Vairagya", "Moksha", "Samsara", "Karma"],
+                "answer": "Vairagya"
+              },
+              {
+                "question": "What is the ultimate purpose of yoga as described in the Bhagavad Gita?",
+                "options": [
+                  "Union with the Supreme",
+                  "Physical fitness",
+                  "Mental clarity",
+                  "Winning battles"
+                ],
+                "answer": "Union with the Supreme"
+              },
+              {
+                "question": "What does Krishna say about those who worship with devotion?",
+                "options": [
+                  "They are dear to Him",
+                  "They will attain heaven",
+                  "They will gain wealth",
+                  "They will avoid suffering"
+                ],
+                "answer": "They are dear to Him"
+              }
+            ]
+          },
+          {
+            "quiz_name": "Bhagavad Gita Quiz 3",
+            "questions": [
+              {
+                "question": "What is Krishna's advice regarding desires in the Bhagavad Gita?",
+                "options": [
+                  "Control desires and remain detached",
+                  "Fulfill all desires",
+                  "Suppress desires completely",
+                  "Ignore desires as unimportant"
+                ],
+                "answer": "Control desires and remain detached"
+              },
+              {
+                "question": "What is the name of the yoga described as the path of meditation?",
+                "options": ["Dhyana Yoga", "Bhakti Yoga", "Jnana Yoga", "Karma Yoga"],
+                "answer": "Dhyana Yoga"
+              },
+              {
+                "question": "According to Krishna, what causes fear and sorrow?",
+                "options": [
+                  "Attachment and ego",
+                  "Poverty",
+                  "War and violence",
+                  "Anger and greed"
+                ],
+                "answer": "Attachment and ego"
+              },
+              {
+                "question": "What does Krishna say about one's actions in the Bhagavad Gita?",
+                "options": [
+                  "Perform actions selflessly",
+                  "Avoid actions to prevent mistakes",
+                  "Perform actions with attachment",
+                  "Perform actions for rewards"
+                ],
+                "answer": "Perform actions selflessly"
+              },
+              {
+                "question": "What does Krishna say about those who are devoted to Him?",
+                "options": [
+                  "They will be liberated",
+                  "They will gain worldly success",
+                  "They will live a peaceful life",
+                  "They will face no challenges"
+                ],
+                "answer": "They will be liberated"
+              },
+              {
+                "question": "What is the Sanskrit term used in the Gita for 'Supreme Knowledge'?",
+                "options": ["Jnana", "Vairagya", "Moksha", "Karma"],
+                "answer": "Jnana"
+              },
+              {
+                "question": "How does Krishna describe the soul in the Bhagavad Gita?",
+                "options": [
+                  "Eternal, indestructible, and unchanging",
+                  "Temporary and fleeting",
+                  "Tied to the body forever",
+                  "Created during birth"
+                ],
+                "answer": "Eternal, indestructible, and unchanging"
+              },
+              {
+                "question": "What does Krishna say about those who are free from anger and hatred?",
+                "options": [
+                  "They attain peace",
+                  "They achieve worldly success",
+                  "They avoid challenges",
+                  "They live long lives"
+                ],
+                "answer": "They attain peace"
+              },
+              {
+                "question": "What is the essence of Bhakti Yoga as described in the Gita?",
+                "options": [
+                  "Loving devotion to God",
+                  "Mastery of the mind",
+                  "Performing rituals",
+                  "Accumulating knowledge"
+                ],
+                "answer": "Loving devotion to God"
+              },
+              {
+                "question": "What is Krishna’s advice to Arjuna regarding doubts and confusion?",
+                "options": [
+                  "Surrender to Him for clarity",
+                  "Seek advice from others",
+                  "Meditate in solitude",
+                  "Ignore doubts and move on"
+                ],
+                "answer": "Surrender to Him for clarity"
+              }
+            ]
+          }                              
+        ]
+      },
+      {
+        "name":"Guru Granth Sahib",
+        "image": "gurusahibh.jpg",
+        "quizzes": [
+          {
+            "quiz_name": "Guru Granth Sahib Quiz 1",
+            "questions": [
+              {
+                "question": "Who compiled the Guru Granth Sahib?",
+                "options": ["Guru Arjan Dev", "Guru Nanak Dev", "Guru Gobind Singh", "Guru Hargobind"],
+                "answer": "Guru Arjan Dev"
+              },
+              {
+                "question": "In which language is the Guru Granth Sahib primarily written?",
+                "options": ["Gurmukhi", "Sanskrit", "Hindi", "Persian"],
+                "answer": "Gurmukhi"
+              },
+              {
+                "question": "Who added the hymns of Guru Tegh Bahadur to the Guru Granth Sahib?",
+                "options": ["Guru Gobind Singh", "Guru Nanak Dev", "Guru Arjan Dev", "Guru Angad Dev"],
+                "answer": "Guru Gobind Singh"
+              },
+              {
+                "question": "What is the Guru Granth Sahib also known as?",
+                "options": ["Adi Granth", "Sri Granth", "Pothi Sahib", "All of the above"],
+                "answer": "All of the above"
+              },
+              {
+                "question": "How many Gurus' teachings are included in the Guru Granth Sahib?",
+                "options": ["6", "10", "11", "9"],
+                "answer": "6"
+              },
+              {
+                "question": "What does the Guru Granth Sahib emphasize as the path to God?",
+                "options": [
+                  "Meditation and devotion",
+                  "Rituals and ceremonies",
+                  "Pilgrimage",
+                  "Material wealth"
+                ],
+                "answer": "Meditation and devotion"
+              },
+              {
+                "question": "What is the concept of God as described in the Guru Granth Sahib?",
+                "options": ["One Universal Creator", "Multiple Deities", "No God", "Personal Gods"],
+                "answer": "One Universal Creator"
+              },
+              {
+                "question": "What is the opening verse of the Guru Granth Sahib called?",
+                "options": ["Mool Mantar", "Japji Sahib", "Sukhmani Sahib", "Anand Sahib"],
+                "answer": "Mool Mantar"
+              },
+              {
+                "question": "How many pages (Angs) does the Guru Granth Sahib contain?",
+                "options": ["1430", "1100", "1500", "1250"],
+                "answer": "1430"
+              },
+              {
+                "question": "Who was the first Sikh Guru?",
+                "options": ["Guru Nanak Dev", "Guru Angad Dev", "Guru Amar Das", "Guru Arjan Dev"],
+                "answer": "Guru Nanak Dev"
+              }
+            ]
+          },
+          {
+            "quiz_name": "Guru Granth Sahib Quiz 2",
+            "questions": [
+              {
+                "question": "Which Guru declared the Guru Granth Sahib as the eternal Guru?",
+                "options": ["Guru Gobind Singh", "Guru Arjan Dev", "Guru Nanak Dev", "Guru Tegh Bahadur"],
+                "answer": "Guru Gobind Singh"
+              },
+              {
+                "question": "What does the term 'Mool Mantar' mean?",
+                "options": [
+                  "Basic teaching",
+                  "Opening verse",
+                  "Meditation hymn",
+                  "Closing prayer"
+                ],
+                "answer": "Basic teaching"
+              },
+              {
+                "question": "Which bhagats' compositions are included in the Guru Granth Sahib?",
+                "options": [
+                  "Bhagat Kabir and Bhagat Ravidas",
+                  "Bhagat Namdev and Bhagat Sain",
+                  "Both A and B",
+                  "Only Sikh Gurus' teachings"
+                ],
+                "answer": "Both A and B"
+              },
+              {
+                "question": "What is the central theme of the Guru Granth Sahib?",
+                "options": [
+                  "Equality and unity of mankind",
+                  "Ritualistic worship",
+                  "Caste-based hierarchy",
+                  "War strategies"
+                ],
+                "answer": "Equality and unity of mankind"
+              },
+              {
+                "question": "What is the practice of continuously reciting the Guru Granth Sahib called?",
+                "options": ["Akhand Path", "Sukhmani Path", "Japji Sahib", "Kirtan"],
+                "answer": "Akhand Path"
+              },
+              {
+                "question": "What is the significance of 'Ik Onkar' in the Guru Granth Sahib?",
+                "options": [
+                  "Represents One Universal God",
+                  "Refers to multiple gods",
+                  "A type of hymn",
+                  "A ritual practice"
+                ],
+                "answer": "Represents One Universal God"
+              },
+              {
+                "question": "Which Guru composed the Anand Sahib included in the Guru Granth Sahib?",
+                "options": ["Guru Amar Das", "Guru Nanak Dev", "Guru Gobind Singh", "Guru Arjan Dev"],
+                "answer": "Guru Amar Das"
+              },
+              {
+                "question": "Which sect’s teachings were rejected by the Guru Granth Sahib?",
+                "options": [
+                  "Ritualistic Brahminism",
+                  "Buddhism",
+                  "Jainism",
+                  "All teachings were accepted"
+                ],
+                "answer": "Ritualistic Brahminism"
+              },
+              {
+                "question": "What is the importance of Gurmukhi in the Guru Granth Sahib?",
+                "options": [
+                  "It is the script used for writing the scripture",
+                  "It refers to hymns composed by the Gurus",
+                  "It is a ceremonial chant",
+                  "It is a language of ancient India"
+                ],
+                "answer": "It is the script used for writing the scripture"
+              },
+              {
+                "question": "What is the primary form of worship in Sikhism as guided by the Guru Granth Sahib?",
+                "options": [
+                  "Singing hymns and Kirtan",
+                  "Performing sacrifices",
+                  "Fasting rituals",
+                  "Building temples"
+                ],
+                "answer": "Singing hymns and Kirtan"
+              }
+            ]
+          },
+          {
+            "quiz_name": "Guru Granth Sahib Quiz 3",
+            "questions": [
+              {
+                "question": "What is the primary message of the Guru Granth Sahib?",
+                "options": [
+                  "Oneness of God and equality of all beings",
+                  "Performing rituals and ceremonies",
+                  "Accumulating wealth",
+                  "Conquering kingdoms"
+                ],
+                "answer": "Oneness of God and equality of all beings"
+              },
+              {
+                "question": "What is the name of the hymn recited early in the morning by Sikhs?",
+                "options": ["Japji Sahib", "Sukhmani Sahib", "Anand Sahib", "Kirtan Sohila"],
+                "answer": "Japji Sahib"
+              },
+              {
+                "question": "Who composed the Asa Di Var included in the Guru Granth Sahib?",
+                "options": ["Guru Nanak Dev", "Guru Arjan Dev", "Guru Gobind Singh", "Guru Tegh Bahadur"],
+                "answer": "Guru Nanak Dev"
+              },
+              {
+                "question": "What is the term used for a complete reading of the Guru Granth Sahib?",
+                "options": ["Akhand Path", "Nitnem", "Ardas", "Kirtan"],
+                "answer": "Akhand Path"
+              },
+              {
+                "question": "What does the Guru Granth Sahib emphasize as the key to spiritual enlightenment?",
+                "options": [
+                  "Meditation on God's name",
+                  "Wealth and power",
+                  "Pilgrimage and fasting",
+                  "Astrological rituals"
+                ],
+                "answer": "Meditation on God's name"
+              },
+              {
+                "question": "Which Bhagat's hymns prominently focus on social equality in the Guru Granth Sahib?",
+                "options": ["Bhagat Kabir", "Bhagat Ravidas", "Bhagat Namdev", "All of the above"],
+                "answer": "All of the above"
+              },
+              {
+                "question": "What is the name of the prayer that marks the conclusion of Sikh worship?",
+                "options": ["Ardas", "Rehras Sahib", "Anand Sahib", "Kirtan Sohila"],
+                "answer": "Ardas"
+              },
+              {
+                "question": "Which Guru is referred to as the 'fifth light' in Sikhism?",
+                "options": ["Guru Arjan Dev", "Guru Nanak Dev", "Guru Gobind Singh", "Guru Hargobind"],
+                "answer": "Guru Arjan Dev"
+              },
+              {
+                "question": "What does the Guru Granth Sahib teach about material wealth?",
+                "options": [
+                  "It is temporary and should not be pursued at the cost of spirituality",
+                  "It is the ultimate goal of life",
+                  "It is unimportant and should be ignored",
+                  "It brings salvation"
+                ],
+                "answer": "It is temporary and should not be pursued at the cost of spirituality"
+              },
+              {
+                "question": "What is the role of Kirtan in Sikh worship as per the Guru Granth Sahib?",
+                "options": [
+                  "To connect with the divine through devotional singing",
+                  "To perform ceremonies",
+                  "To memorize scriptures",
+                  "To offer sacrifices"
+                ],
+                "answer": "To connect with the divine through devotional singing"
+              }
+            ]
+          }              
+        ]
+      },
+      {
+        "name": "Rig Veda",
+        "image": "rig veda.jpeg",
+        "quizzes": [
+          {
+            "quiz_name": "Rig Veda Quiz 1",
+            "questions": [
+              {
+                "question": "How many hymns are there in the Rig Veda?",
+                "options": ["1028", "1000", "1500", "1200"],
+                "answer": "1028"
+              },
+              {
+                "question": "What does the Rig Veda primarily focus on?",
+                "options": [
+                  "Hymns to gods and natural elements",
+                  "Philosophy and meditation",
+                  "Astronomy and mathematics",
+                  "Historical events"
+                ],
+                "answer": "Hymns to gods and natural elements"
+              },
+              {
+                "question": "Who is the fire god mentioned in the Rig Veda?",
+                "options": ["Agni", "Indra", "Varuna", "Vayu"],
+                "answer": "Agni"
+              },
+              {
+                "question": "Which deity is known as the king of the gods in the Rig Veda?",
+                "options": ["Indra", "Varuna", "Surya", "Agni"],
+                "answer": "Indra"
+              },
+              {
+                "question": "What is the Rig Veda composed in?",
+                "options": ["Sanskrit", "Pali", "Prakrit", "Hindi"],
+                "answer": "Sanskrit"
+              },
+              {
+                "question": "What is the Gayatri Mantra dedicated to, as found in the Rig Veda?",
+                "options": ["The Sun (Savitr)", "Fire (Agni)", "The Moon (Chandra)", "The Wind (Vayu)"],
+                "answer": "The Sun (Savitr)"
+              },
+              {
+                "question": "Who are the composers of the Rig Veda hymns?",
+                "options": [
+                  "Rishis (sages)",
+                  "Kings",
+                  "Warriors",
+                  "Priests"
+                ],
+                "answer": "Rishis (sages)"
+              },
+              {
+                "question": "What is the primary theme of the Purusha Sukta in the Rig Veda?",
+                "options": [
+                  "The cosmic creation and division of society",
+                  "Praise of fire",
+                  "The movement of celestial bodies",
+                  "Agricultural practices"
+                ],
+                "answer": "The cosmic creation and division of society"
+              },
+              {
+                "question": "Which natural element is Varuna associated with in the Rig Veda?",
+                "options": ["Water", "Fire", "Wind", "Earth"],
+                "answer": "Water"
+              },
+              {
+                "question": "What is the Rig Veda's contribution to Indian culture?",
+                "options": [
+                  "Foundation of Vedic rituals and philosophy",
+                  "Detailed history of kings",
+                  "Laws and governance systems",
+                  "Descriptions of ancient cities"
+                ],
+                "answer": "Foundation of Vedic rituals and philosophy"
+              }
+            ]
+          },
+          {
+            "quiz_name": "Rig Veda Quiz 2",
+            "questions": [
+              {
+                "question": "What is the Rig Veda often referred to as?",
+                "options": [
+                  "The Book of Hymns",
+                  "The Book of Laws",
+                  "The Book of Philosophy",
+                  "The Book of Medicine"
+                ],
+                "answer": "The Book of Hymns"
+              },
+              {
+                "question": "Which deity in the Rig Veda is associated with rain and storms?",
+                "options": ["Indra", "Vayu", "Agni", "Varuna"],
+                "answer": "Indra"
+              },
+              {
+                "question": "What does the Rig Veda describe as the ultimate source of creation?",
+                "options": [
+                  "The Cosmic Egg (Hiranyagarbha)",
+                  "Fire (Agni)",
+                  "The Ocean (Samudra)",
+                  "The Sky (Akasha)"
+                ],
+                "answer": "The Cosmic Egg (Hiranyagarbha)"
+              },
+              {
+                "question": "How many Mandalas (books) are there in the Rig Veda?",
+                "options": ["10", "12", "7", "15"],
+                "answer": "10"
+              },
+              {
+                "question": "What is Soma, as mentioned in the Rig Veda?",
+                "options": [
+                  "A sacred drink offered to the gods",
+                  "A river mentioned in the hymns",
+                  "A type of tree",
+                  "A mountain deity"
+                ],
+                "answer": "A sacred drink offered to the gods"
+              },
+              {
+                "question": "Which deity is known as the guardian of cosmic order in the Rig Veda?",
+                "options": ["Varuna", "Agni", "Indra", "Surya"],
+                "answer": "Varuna"
+              },
+              {
+                "question": "What is the primary purpose of the hymns in the Rig Veda?",
+                "options": [
+                  "To praise the gods",
+                  "To provide medical cures",
+                  "To discuss governance",
+                  "To document wars"
+                ],
+                "answer": "To praise the gods"
+              },
+              {
+                "question": "Which hymn in the Rig Veda explains the creation of the universe?",
+                "options": [
+                  "Nasadiya Sukta",
+                  "Purusha Sukta",
+                  "Gayatri Mantra",
+                  "Akasha Sukta"
+                ],
+                "answer": "Nasadiya Sukta"
+              },
+              {
+                "question": "What role does Surya play in the Rig Veda?",
+                "options": [
+                  "God of the Sun",
+                  "God of War",
+                  "God of Wind",
+                  "God of Water"
+                ],
+                "answer": "God of the Sun"
+              },
+              {
+                "question": "What is the significance of the Rig Veda in Indian tradition?",
+                "options": [
+                  "It lays the foundation for Vedic culture and rituals",
+                  "It provides a historical record of kings",
+                  "It contains detailed medical practices",
+                  "It focuses on trade and commerce"
+                ],
+                "answer": "It lays the foundation for Vedic culture and rituals"
+              }
+            ]
+          },    
+          {
+            "quiz_name": "Rig Veda Quiz 3",
+            "questions": [
+              {
+                "question": "What is the Rig Veda considered to be the oldest of?",
+                "options": [
+                  "The Four Vedas",
+                  "The Upanishads",
+                  "The Puranas",
+                  "The Epics"
+                ],
+                "answer": "The Four Vedas"
+              },
+              {
+                "question": "Who is the goddess associated with dawn in the Rig Veda?",
+                "options": ["Ushas", "Saraswati", "Parvati", "Lakshmi"],
+                "answer": "Ushas"
+              },
+              {
+                "question": "Which Mandala of the Rig Veda is dedicated mostly to the god Indra?",
+                "options": ["Mandala 2", "Mandala 3", "Mandala 1", "Mandala 6"],
+                "answer": "Mandala 6"
+              },
+              {
+                "question": "What does the Rig Veda describe as 'Rita'?",
+                "options": [
+                  "The cosmic order",
+                  "A type of hymn",
+                  "A deity",
+                  "A sacred tree"
+                ],
+                "answer": "The cosmic order"
+              },
+              {
+                "question": "Which natural element is most praised in the Rig Veda?",
+                "options": ["Fire (Agni)", "Water", "Earth", "Air"],
+                "answer": "Fire (Agni)"
+              },
+              {
+                "question": "What is the significance of the hymn 'Nasadiya Sukta' in the Rig Veda?",
+                "options": [
+                  "It questions the origins of the universe",
+                  "It praises Indra's might",
+                  "It discusses agricultural techniques",
+                  "It describes rituals for Soma preparation"
+                ],
+                "answer": "It questions the origins of the universe"
+              },
+              {
+                "question": "What is Soma often referred to in the Rig Veda?",
+                "options": [
+                  "A divine drink of immortality",
+                  "A river of knowledge",
+                  "A sacred mountain",
+                  "A celestial deity"
+                ],
+                "answer": "A divine drink of immortality"
+              },
+              {
+                "question": "What is the role of Maruts in the Rig Veda?",
+                "options": [
+                  "They are storm deities associated with Indra",
+                  "They are river goddesses",
+                  "They represent celestial musicians",
+                  "They are guardians of wealth"
+                ],
+                "answer": "They are storm deities associated with Indra"
+              },
+              {
+                "question": "Which god is often invoked as a healer in the Rig Veda?",
+                "options": ["Ashvins", "Surya", "Varuna", "Agni"],
+                "answer": "Ashvins"
+              },
+              {
+                "question": "What is the symbolic meaning of the cow in the Rig Veda?",
+                "options": [
+                  "Symbol of wealth and nourishment",
+                  "Representation of fire",
+                  "Guardian of the sacred hymns",
+                  "Symbol of war"
+                ],
+                "answer": "Symbol of wealth and nourishment"
+              }
+            ]
+          },
+          {
+            "quiz_name": "Rig Veda Quiz 4",
+            "questions": [
+              {
+                "question": "Who is known as the lord of speech in the Rig Veda?",
+                "options": ["Vak", "Agni", "Indra", "Varuna"],
+                "answer": "Vak"
+              },
+              {
+                "question": "What is the primary role of the deity Vayu in the Rig Veda?",
+                "options": ["God of wind", "God of fire", "God of water", "God of creation"],
+                "answer": "God of wind"
+              },
+              {
+                "question": "Which river is prominently mentioned in the Rig Veda?",
+                "options": ["Saraswati", "Ganga", "Yamuna", "Sindhu"],
+                "answer": "Saraswati"
+              },
+              {
+                "question": "What is the central theme of the hymn dedicated to Vishwakarma in the Rig Veda?",
+                "options": [
+                  "The universal creator",
+                  "The god of fire",
+                  "The protector of wealth",
+                  "The healer of ailments"
+                ],
+                "answer": "The universal creator"
+              },
+              {
+                "question": "What is the purpose of the Soma sacrifice in the Rig Veda?",
+                "options": [
+                  "To offer the sacred drink to gods",
+                  "To invoke rains",
+                  "To ensure victory in battles",
+                  "To heal ailments"
+                ],
+                "answer": "To offer the sacred drink to gods"
+              },
+              {
+                "question": "Which deity is often invoked as a friend and helper of humanity in the Rig Veda?",
+                "options": ["Mitra", "Varuna", "Vishnu", "Rudra"],
+                "answer": "Mitra"
+              },
+              {
+                "question": "What is the symbolic representation of the horse in the Rig Veda?",
+                "options": [
+                  "Power and energy",
+                  "Wealth and nourishment",
+                  "Purity and divinity",
+                  "Harmony and balance"
+                ],
+                "answer": "Power and energy"
+              },
+              {
+                "question": "Which hymn in the Rig Veda deals with the unity of mankind?",
+                "options": [
+                  "Samhita Sukta",
+                  "Purusha Sukta",
+                  "Rita Sukta",
+                  "Nasadiya Sukta"
+                ],
+                "answer": "Purusha Sukta"
+              },
+              {
+                "question": "What does the Rig Veda describe as the 'path of the gods'?",
+                "options": ["The Sun's course", "The river Saraswati", "The Soma ritual", "The cosmic order"],
+                "answer": "The Sun's course"
+              },
+              {
+                "question": "What is the Rig Vedic concept of 'Yajna'?",
+                "options": [
+                  "A sacred ritual offering",
+                  "A hymn of praise",
+                  "A cosmic order",
+                  "A type of prayer"
+                ],
+                "answer": "A sacred ritual offering"
+              }
+            ]
+          },
+          {
+            "quiz_name": "Rig Veda Quiz 5",
+            "questions": [
+              {
+                "question": "Who is referred to as the 'Guardian of Cosmic Law' in the Rig Veda?",
+                "options": ["Varuna", "Indra", "Agni", "Vishnu"],
+                "answer": "Varuna"
+              },
+              {
+                "question": "What does the hymn 'Aghamarshana Sukta' focus on?",
+                "options": [
+                  "Purification and cleansing",
+                  "Creation of the universe",
+                  "Praise of warriors",
+                  "Offering of Soma"
+                ],
+                "answer": "Purification and cleansing"
+              },
+              {
+                "question": "Which deity is associated with healing and medicine in the Rig Veda?",
+                "options": ["Ashvins", "Rudra", "Surya", "Mitra"],
+                "answer": "Ashvins"
+              },
+              {
+                "question": "What is the significance of the cow in Rig Vedic hymns?",
+                "options": [
+                  "Symbol of wealth and prosperity",
+                  "Representation of fire",
+                  "Source of eternal life",
+                  "Symbol of war and power"
+                ],
+                "answer": "Symbol of wealth and prosperity"
+              },
+              {
+                "question": "What does the Rig Veda describe as the 'chariot of the gods'?",
+                "options": ["The Sun", "The Wind", "The Fire", "The Moon"],
+                "answer": "The Sun"
+              },
+              {
+                "question": "Which group of gods is referred to as the 'Devas of Light'?",
+                "options": ["Adityas", "Maruts", "Ashvins", "Rudras"],
+                "answer": "Adityas"
+              },
+              {
+                "question": "What is the central idea of the hymn dedicated to Agni in the Rig Veda?",
+                "options": [
+                  "Agni as the mediator between humans and gods",
+                  "Agni as the destroyer of enemies",
+                  "Agni as the giver of wealth",
+                  "Agni as the guardian of the forest"
+                ],
+                "answer": "Agni as the mediator between humans and gods"
+              },
+              {
+                "question": "Which term in the Rig Veda refers to sacred knowledge passed down orally?",
+                "options": ["Shruti", "Smriti", "Upanishad", "Sutra"],
+                "answer": "Shruti"
+              },
+              {
+                "question": "What is the importance of the Rig Vedic hymn 'Prithvi Sukta'?",
+                "options": [
+                  "It praises the Earth and its elements",
+                  "It discusses the Sun's movement",
+                  "It describes rituals for rain",
+                  "It honors the rivers of India"
+                ],
+                "answer": "It praises the Earth and its elements"
+              },
+              {
+                "question": "Which deity is associated with the storm and thunder in the Rig Veda?",
+                "options": ["Indra", "Vayu", "Varuna", "Surya"],
+                "answer": "Indra"
+              }
+            ]
+          }          
+        ]
+      },
+      {
+        "name": "Shiva Purana",
+        "image": "shiva purana.jpg",
+        "quizzes": [
+          {
+            "quiz_name": "Shiva Purana Quiz 1",
+            "questions": [
+              {
+                "question": "Who is considered the consort of Lord Shiva in Shiva Purana?",
+                "options": ["Parvati", "Lakshmi", "Saraswati", "Radha"],
+                "answer": "Parvati"
+              },
+              {
+                "question": "What is the name of Shiva's celestial bull vehicle?",
+                "options": ["Nandi", "Garuda", "Airavata", "Kamadhenu"],
+                "answer": "Nandi"
+              },
+              {
+                "question": "What does Lord Shiva hold in his upper right hand?",
+                "options": ["Trident (Trishul)", "Drum (Damaru)", "Lotus", "Sword"],
+                "answer": "Drum (Damaru)"
+              },
+              {
+                "question": "What is the sacred river that flows from Shiva's hair?",
+                "options": ["Ganga", "Yamuna", "Godavari", "Kaveri"],
+                "answer": "Ganga"
+              },
+              {
+                "question": "Which mountain is considered the abode of Lord Shiva?",
+                "options": ["Mount Kailash", "Mount Meru", "Himalayas", "Vindhyas"],
+                "answer": "Mount Kailash"
+              },
+              {
+                "question": "What is the meaning of the term 'Shiva'?",
+                "options": ["The Auspicious One", "The Creator", "The Warrior", "The Enlightened One"],
+                "answer": "The Auspicious One"
+              },
+              {
+                "question": "Who is Lord Shiva’s first son according to Shiva Purana?",
+                "options": ["Kartikeya", "Ganesha", "Ashwatthama", "Bhairava"],
+                "answer": "Kartikeya"
+              },
+              {
+                "question": "What is the form of Lord Shiva that symbolizes his role as a destroyer?",
+                "options": ["Rudra", "Nataraja", "Mahadeva", "Sadashiva"],
+                "answer": "Rudra"
+              },
+              {
+                "question": "Which festival is dedicated to the worship of Lord Shiva?",
+                "options": ["Maha Shivaratri", "Diwali", "Holi", "Navaratri"],
+                "answer": "Maha Shivaratri"
+              },
+              {
+                "question": "What is the sacred symbol associated with Lord Shiva?",
+                "options": ["Shivalinga", "Swastika", "Om", "Chakra"],
+                "answer": "Shivalinga"
+              }
+            ]
+          },
+          {
+            "quiz_name": "Shiva Purana Quiz 2",
+            "questions": [
+              {
+                "question": "What does the crescent moon on Lord Shiva's head symbolize?",
+                "options": [
+                  "Control over time",
+                  "Power over creation",
+                  "Eternal light",
+                  "Destruction of evil"
+                ],
+                "answer": "Control over time"
+              },
+              {
+                "question": "Who performed the Tandava dance in the Shiva Purana?",
+                "options": ["Shiva", "Parvati", "Nandi", "Kartikeya"],
+                "answer": "Shiva"
+              },
+              {
+                "question": "What poison did Lord Shiva consume to save the world?",
+                "options": ["Halahala", "Amrita", "Visha", "Soma"],
+                "answer": "Halahala"
+              },
+              {
+                "question": "Who is considered the manifestation of Shiva as the protector of the universe?",
+                "options": ["Mahadeva", "Rudra", "Sadashiva", "Virabhadra"],
+                "answer": "Sadashiva"
+              },
+              {
+                "question": "Which sacred text is primarily dedicated to the worship of Lord Shiva?",
+                "options": [
+                  "Shiva Purana",
+                  "Vishnu Purana",
+                  "Bhagavad Gita",
+                  "Rig Veda"
+                ],
+                "answer": "Shiva Purana"
+              },
+              {
+                "question": "What is the name of the demon who was defeated by Shiva in his Virabhadra form?",
+                "options": ["Daksha", "Andhaka", "Tarakasura", "Ravana"],
+                "answer": "Andhaka"
+              },
+              {
+                "question": "Which sacred mantra is associated with Lord Shiva?",
+                "options": [
+                  "Om Namah Shivaya",
+                  "Om Namo Narayanaya",
+                  "Om Gan Ganapataye Namah",
+                  "Om Aim Saraswatyai Namah"
+                ],
+                "answer": "Om Namah Shivaya"
+              },
+              {
+                "question": "What is the significance of Shiva’s third eye?",
+                "options": [
+                  "It represents destruction of evil and ignorance",
+                  "It is a symbol of wisdom",
+                  "It controls the cosmos",
+                  "It blesses devotees with prosperity"
+                ],
+                "answer": "It represents destruction of evil and ignorance"
+              },
+              {
+                "question": "Who was born from the sweat of Shiva's brow to defeat the demon Tarakasura?",
+                "options": ["Kartikeya", "Ganesha", "Virabhadra", "Bhairava"],
+                "answer": "Kartikeya"
+              },
+              {
+                "question": "What does the Shiva Purana teach about the nature of existence?",
+                "options": [
+                  "It emphasizes balance between creation, preservation, and destruction",
+                  "It focuses on the path of devotion alone",
+                  "It advocates complete renunciation",
+                  "It denies the concept of rebirth"
+                ],
+                "answer": "It emphasizes balance between creation, preservation, and destruction"
+              }
+            ]
+          },
+          {
+            "quiz_name": "Shiva Purana Quiz 3",
+            "questions": [
+              {
+                "question": "What is the name of the forest where Shiva manifested as a pillar of fire to settle a dispute?",
+                "options": ["Daruvana", "Kashi", "Dakini", "Vindhyavana"],
+                "answer": "Daruvana"
+              },
+              {
+                "question": "Who is Shiva's manifestation as the fierce protector of righteousness?",
+                "options": ["Virabhadra", "Nataraja", "Mahadeva", "Rudra"],
+                "answer": "Virabhadra"
+              },
+              {
+                "question": "What is the significance of Shiva's blue throat (Neelkanth)?",
+                "options": [
+                  "It symbolizes his consumption of poison during the churning of the ocean",
+                  "It represents his control over the universe",
+                  "It signifies his connection to the sky",
+                  "It is a mark of his eternal power"
+                ],
+                "answer": "It symbolizes his consumption of poison during the churning of the ocean"
+              },
+              {
+                "question": "Who cursed Shiva to have his throat turn blue?",
+                "options": ["No one; it was a result of drinking poison", "Daksha", "Indra", "Bhrigu"],
+                "answer": "No one; it was a result of drinking poison"
+              },
+              {
+                "question": "What form does Shiva take to perform his cosmic dance?",
+                "options": ["Nataraja", "Sadashiva", "Bhairava", "Rudra"],
+                "answer": "Nataraja"
+              },
+              {
+                "question": "Which demon was granted immortality but was subdued by Shiva using the Shivalinga?",
+                "options": ["Banasura", "Tarakasura", "Andhaka", "Ravana"],
+                "answer": "Banasura"
+              },
+              {
+                "question": "What is the name of the sacred hymn dedicated to Lord Shiva?",
+                "options": ["Shiva Tandava Stotram", "Vishnu Sahasranama", "Gayatri Mantra", "Durga Chalisa"],
+                "answer": "Shiva Tandava Stotram"
+              },
+              {
+                "question": "Which river is said to have originated from Lord Shiva's matted locks?",
+                "options": ["Ganga", "Yamuna", "Godavari", "Kaveri"],
+                "answer": "Ganga"
+              },
+              {
+                "question": "What is the term used to describe Shiva as the destroyer of the universe?",
+                "options": ["Rudra", "Nataraja", "Mahesh", "Sadashiva"],
+                "answer": "Rudra"
+              },
+              {
+                "question": "What does the Shiva Purana teach about liberation (Moksha)?",
+                "options": [
+                  "It can be achieved through devotion to Shiva and self-realization",
+                  "It is reserved only for ascetics",
+                  "It is attained through material wealth",
+                  "It is granted automatically upon worship of Shivalinga"
+                ],
+                "answer": "It can be achieved through devotion to Shiva and self-realization"
+              }
+            ]
+          },
+          {
+            "quiz_name": "Shiva Purana Quiz 4",
+            "questions": [
+              {
+                "question": "Who is Lord Shiva's second son, known as the remover of obstacles?",
+                "options": ["Ganesha", "Kartikeya", "Bhairava", "Ashwatthama"],
+                "answer": "Ganesha"
+              },
+              {
+                "question": "What is the name of the sacred city dedicated to Lord Shiva?",
+                "options": ["Varanasi", "Ayodhya", "Mathura", "Dwarka"],
+                "answer": "Varanasi"
+              },
+              {
+                "question": "Which demon did Lord Shiva slay using his trident (Trishul)?",
+                "options": ["Jalandhara", "Ravana", "Tarakasura", "Hiranyakashipu"],
+                "answer": "Jalandhara"
+              },
+              {
+                "question": "What is the name of Shiva's fierce female energy or Shakti?",
+                "options": ["Durga", "Kali", "Parvati", "Chamunda"],
+                "answer": "Kali"
+              },
+              {
+                "question": "What form did Lord Shiva take to test the devotion of the Pandavas?",
+                "options": ["A hunter", "A sage", "A beggar", "A warrior"],
+                "answer": "A hunter"
+              },
+              {
+                "question": "What is the name of the festival celebrated for the appearance of Lord Shiva as a pillar of fire?",
+                "options": ["Maha Shivaratri", "Karthika Deepam", "Shravan Somwar", "Chaturdashi"],
+                "answer": "Karthika Deepam"
+              },
+              {
+                "question": "What is the Lingam said to symbolize in Shiva Purana?",
+                "options": [
+                  "The infinite nature of Lord Shiva",
+                  "The physical form of Shiva",
+                  "The power of destruction",
+                  "A sacred mountain"
+                ],
+                "answer": "The infinite nature of Lord Shiva"
+              },
+              {
+                "question": "What does the Shiva Purana say about Shiva's dance of destruction?",
+                "options": [
+                  "It signifies the destruction of ignorance and ego",
+                  "It marks the end of the world",
+                  "It is a form of punishment",
+                  "It is a way to create chaos"
+                ],
+                "answer": "It signifies the destruction of ignorance and ego"
+              },
+              {
+                "question": "Who is known as the gatekeeper of Lord Shiva's abode, Mount Kailash?",
+                "options": ["Nandi", "Virabhadra", "Kartikeya", "Bhairava"],
+                "answer": "Nandi"
+              },
+              {
+                "question": "What does the Shiva Purana teach about the importance of devotion?",
+                "options": [
+                  "Devotion is the highest form of worship to attain Shiva's blessings",
+                  "Devotion alone cannot grant liberation",
+                  "Devotion should be supplemented by material offerings",
+                  "Devotion is not emphasized in Shiva Purana"
+                ],
+                "answer": "Devotion is the highest form of worship to attain Shiva's blessings"
+              }
+            ]
+          }                                        
+        ]
+      }
+    ]
+  }
+  
