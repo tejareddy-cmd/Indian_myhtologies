@@ -247,7 +247,7 @@ const QuizQuestions = () => {
     } else if (timer === 0) {
       handleNext();
     }
-  }, [timer, isAnswered]);
+  }, [timer, isAnswered, handleNext]);
 
   const handleOptionClick = (option) => {
     if (isAnswered) return;
